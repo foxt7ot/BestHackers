@@ -1,0 +1,1 @@
+include (../BestHackers.pro)

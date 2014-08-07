@@ -1,0 +1,110 @@
+[
+{"text":"John Draper","details":"John Thomas Draper (born 1943), also known as Captain Crunch, Crunch or Crunchman (after Cap'n Crunch, the mascot of a breakfast cereal), is an American computer programmer and former phone phreak. He is a legendary figure within the computer programming world.
+
+While Draper was driving around his Volkswagen Microbus to test a pirate radio transmitter he had built, he broadcast a telephone number to listeners as feedback to gauge his station's reception. A callback from a Denny (identified in the Discovery Channel documentary about Hacking as Denny Teresi) resulted in a meeting that caused him to blunder into the world of the phone phreaks. Teresi and a large percentage of the phone phreaks were blind. Learning of his electronic capability, they wanted him to build a multifrequency tone generator (the blue box) to gain easier entry into the AT&T system, which was controlled by tones. Then they would not have to use an organ and cassette recordings of tones to get free calls. At least one of the blind boys called Joybubbles had perfect pitch and had identified the exact frequencies. They informed him that a toy whistle that was, at the time, packaged in boxes of Cap'n Crunch cereal could emit a tone at precisely 2600 hertz the same frequency that was used by AT&T long lines to indicate that a trunk line was ready and available to route a new call. This would effectively disconnect one end of the trunk, allowing the still connected side to enter an operator mode. Experimenting with this whistle inspired Draper to build blue boxes: electronic devices capable of reproducing other tones used by the phone company.","thumb":"asset:///images/thumb/john.jpg","image":"asset:///images/details/john.jpg"},
+{"text":"Albert Gonzalez","details":"Albert Gonzalez (born 1981) is a computer hacker and computer criminal who is accused of masterminding the combined credit card theft and subsequent reselling of more than 170 million card and ATM numbers from 2005 through 2007 the biggest such fraud in history.
+
+Gonzalez and his accomplices used SQL injection to deploy backdoors on several corporate systems in order to launch packet sniffing (specifically, ARP Spoofing) attacks which allowed him to steal computer data from internal corporate networks.
+
+During his spree he was said to have thrown himself a $75,000 birthday party and complained about having to count $340,000 by hand after his currency-counting machine broke. Gonzalez stayed at lavish hotels but his formal homes were modest.
+
+Gonzalez had three federal indictments:
+
+    May 2008 in New York for the Dave & Busters case (trial schedule September 2009)
+    May 2008 in Massachusetts for the TJ Maxx case (trial scheduled early 2010)
+    August 2009 in New Jersey in connection with the Heartland Payment case.
+
+On March 25, 2010, Gonzalez was sentenced to 20 years in federal prison.","thumb":"asset:///images/thumb/albert.jpg","image":"asset:///images/details/albert.jpg"},
+{"text":"Kevin Poulson","details":"Kevin Lee Poulsen (born 1965 in Pasadena, California, U.S.) is an American former black hat hacker who is currently News Editor at Wired.com.
+
+Before segueing into journalism, he had a controversial career in the 1980s as a hacker whose handle was Dark Dante. He worked for SRI International by day, and hacked at night. During this time, Poulsen taught himself lock picking, and engaged in a brash spree of high-tech stunts that would ultimately make him one of America's best-known cyber-criminals. Among other things, Poulsen reactivated old Yellow Page escort telephone numbers for an acquaintance that then ran a virtual escort agency.
+
+His best-appreciated hack was a takeover of all of the telephone lines for Los Angeles radio station KIIS-FM, guaranteeing that he would be the 102nd caller and win the prize of a Porsche 944 S2.
+
+Kevin Poulsen broke the initial story of the arrest of U.S. serviceman Bradley Manning, and published the logs of Manning's supposedly incriminating chats with Adrian Lamo regarding WikiLeaks.","thumb":"asset:///images/thumb/kevin.jpg","image":"asset:///images/details/kevin.jpg"},
+{"text":"Richard Jones","details":"Electron was the computer handle of Richard Jones, a member of an underground hacker community called The Realm. Jones, born in June 1969, was one of three members of the group arrested in simultaneous raids by the Australian Federal Police in Melbourne, Australia, on 2 April 1990. All three  Nahshon Even Chaim (also known as Phoenix), Electron and Nom (real name David John Woodcock)  were convicted of a range of computer crimes involving the intrusion into US defense and government computer systems and the theft of an online computer security newsletter in the late 1980s and early 1990.
+
+The case was notable for being the first prosecution of hackers under Australian federal computer crime legislation that had come into law in June 1989. It was also the first time in the world police had gained a conviction using evidence obtained by the remote tapping of a computer. For six weeks before the raid, members of the AFP computer crime section had been capturing the online activity of the ringleader, Phoenix, in suburban Melbourne, from the police Telephone Intercept Branch in Canberra, 650 km away. His conversations with Electron and Nom, which were intercepted continuously for eight weeks before the raid, formed the basis of the evidence against both of Phoenix's co-offenders, as they freely discussed the targets of their hacking and bragged of their exploits.
+
+Electron pleaded guilty to 14 offences and in June 1993 was given a suspended six-month jail sentence and 300 hours' community service.","thumb":"asset:///images/thumb/richard.jpg","image":"asset:///images/details/richard.jpg"},
+{"text":"Karl Koch","details":"Karl Werner Lothar Koch (July 22, 1965  ca. May 23, 1989) was a German hacker in the 1980s, who called himself 'hagbard', after Hagbard Celine. He was involved in a Cold War computer espionage incident.
+Contents
+
+Koch was loosely affiliated with the CCC. He worked with the hackers known as DOB (Dirk-Otto Brezinski), Pengo (Hans Heinrich Hubner), and Urmel (Markus Hess), and was involved in selling hacked information from US military computers to the KGB. Clifford Stoll's book The Cuckoo's Egg gives a first-person account of the hunt and eventual identification of Hess. Pengo subsequently came forward and confessed to the authorities.
+
+Koch was found burned to death with gasoline in a forest near Celle. The death was officially claimed to be a suicide.","thumb":"asset:///images/thumb/karl.jpg","image":"asset:///images/details/karl.jpg"},
+{"text":"The Mentor","details":"Loyd Blankenship (born 1965) also as The Mentor has been a well-known American computer hacker and writer since the 1970s, when he was a member of the hacker groups Extasyy Elite and Legion of Doom.
+
+He is the author of The Conscience of a Hacker (Hacker Manifesto), written after he was arrested, and was published in the underground hacker ezine Phrack. Blankenship gave a reading of The Hacker Manifesto and offered additional insight at H2K2.
+
+He also authored the cyberpunk role-playing sourcebook GURPS Cyberpunk, the manuscript of which was seized in a 1990 raid of his employer's (Steve Jackson Games, SJ Games) headquarters by the U.S. Secret Service.","thumb":"asset:///images/thumb/mentor.jpg","image":"asset:///images/details/mentor.jpg"},
+{"text":"Gordon Lyon / Fyodor","details":"Gordon Lyon (also known by his pseudonym Fyodor Vaskovich) is a network security expert, open source programmer, writer, and a hacker. He authored the open source Nmap Security Scanner and numerous books, web sites, and technical papers focusing on network security. Lyon is a founding member of the Honeynet Project and Vice President of Computer Professionals for Social Responsibility.
+
+Lyon has been active in the network security community since the mid 1990s. His handle, Fyodor, was taken from Russian author Fyodor Dostoyevsky. Most of his programming is done in the C, C++, and Perl programming languages. He lives in Palo Alto, California.
+
+Lyon maintains several network security web sites:
+
+    Nmap.Org : Documents the Nmap Security Scanner and provides it for download.
+    SecTools.Org : The top 100 network security tools (ranked by thousands of Nmap users)
+    SecLists.Org : Archive of the most common security mailing lists
+    Insecure.Org : His main site, offering security news/updates, exploit world archive, and other misc. security resources.
+","thumb":"asset:///images/thumb/gordon.jpg","image":"asset:///images/details/gordon.jpg"},
+{"text":"Shawn Fanning","details":"Shawn Fanning (born November 22, 1980) is an American computer programmer, serial entrepreneur, and angel investor. He developed Napster, one of the first popular peer-to-peer (P2P) file sharing platforms, in 1998. The popularity of Napster was widespread and Fanning was featured on the cover of Time magazine.
+
+The site in its initial free P2P incarnation was shut down in 2001 after the company's unsuccessful appeal of court orders arising from its encouraging the illegal sharing of copyrighted material. A paid subscription version of the site followed, and was purchased by Rhapsody on December 1, 2011. Following his involvement with Napster, he joined, and invested in, a number of early-stage technology startup companies.
+
+Napster
+On June 1, 1999, Fanning released a preliminary beta program of Napster and soon, hundreds of college students at Northeastern were up and trading music furiously. Soon after he uploaded the beta program of Napster, Shawn moved his company from his headquarters in Hull, Massachusetts to a more spacious location in San Mateo, California and hired additional workers to improve on the Napster Program.","thumb":"asset:///images/thumb/shawn.jpg","image":"asset:///images/details/shawn.jpg"},
+{"text":"Robert Tappan Morris","details":"Robert Tappan Morris (born November 8, 1965) is an American computer scientist, best known for creating the Morris Worm in 1988, considered the first computer worm on the Internet and subsequently becoming the first person convicted under the Computer Fraud and Abuse Act.
+
+Morris created the worm while he was a graduate student at Cornell University. The original intent, according to him, was to gauge the size of the Internet. He released the worm from MIT to conceal the fact that it actually originated from Cornell. The worm exploited several vulnerabilities to gain entry to targeted systems, including:
+
+    a hole in the debug mode of the Unix sendmail program,
+    a buffer overrun hole in the fingerd network service,
+    the transitive trust enabled by people setting up rexec/rsh network logins without password requirements.
+
+However, the worm had a design flaw. The worm was programmed to check each computer it found to determine if the infection was already present. However, Morris believed that some administrators might try to defeat his worm by instructing the computer to report a false positive. To compensate for this possibility, Morris directed the worm to copy itself anyway, 14% of the time, no matter the response to the infection-status interrogation. This level of replication created system loads that not only brought it to the attention of system administrators, but also disrupted the target computers. It was guessed that the cost in potential loss in productivity caused by the worm and efforts to remove it ranged at each system from $200 to more than $53,000
+
+He went on to co-found the online store Viaweb, one of the first web-based applications, and later the funding firm Y Combinator both with Paul Graham. He is a tenured professor in the department of Electrical Engineering and Computer Science at the Massachusetts Institute of Technology.","thumb":"asset:///images/thumb/morris.jpg","image":"asset:///images/details/morris.jpg"},
+{"text":"Gary Mckinnon","details":"Gary McKinnon (born 10 February 1966) is a Scottish systems administrator and hacker who was accused in 2002 of perpetrating the 'biggest military computer hack of all time,' although McKinnon himself who has a diagnosis of Asperger's Syndrome states that he was merely looking for evidence of free energy suppression and a cover up of UFO activity and other technologies potentially useful to the public. On 16 October 2012, after a series of legal proceedings in Britain, Home Secretary Theresa May withdrew his extradition order to the United States.
+McKinnon is accused of hacking into 97 United States military and NASA computers over a 13 month period between February 2001 and March 2002, at his girlfriend's aunt's house in London, using the name 'Solo'.
+
+The US authorities claim he deleted critical files from operating systems, which shut down the United States Army's Military District of Washington network of 2,000 computers for 24 hours. McKinnon also posted a notice on the military's website: 'Your security is crap'. After the September 11 attacks in 2001, he deleted weapons logs at the Earle Naval Weapons Station, rendering its network of 300 computers inoperable and paralyzing munitions supply deliveries for the US Navy's Atlantic Fleet. McKinnon is also accused of copying data, account files and passwords onto his own computer. US authorities claim the cost of tracking and correcting the problems he caused was over $700,000.
+
+While not admitting that it constituted evidence of destruction, McKinnon did admit leaving a threat on one computer:
+
+    'US foreign policy is akin to Government sponsored terrorism these days. It was not a mistake that there was a huge security stand down on September 11 last year. I am SOLO. I will continue to disrupt at the highest levels 
+
+US authorities claim that McKinnon is trying to downplay his own actions. A senior military officer at the Pentagon told The Sunday Telegraph: 'US policy is to fight these attacks as strongly as possible. As a result of Mr McKinnon's actions, we suffered serious damage. This was not some harmless incident. He did very serious and deliberate damage to military and Nasa computers and left silly and anti America messages. All the evidence was that someone was staging a very serious attack on US computer systems.","thumb":"asset:///images/thumb/gary.jpg","image":"asset:///images/details/gary.jpg"},
+{"text":"Adrian Lamo","details":"Adrian Lamo (born February 20, 1981) is a Colombian American threat analyst and 'grey hat' hacker. He first gained media attention for breaking into several high profile computer networks, including those of The New York Times, Yahoo!, and Microsoft, culminating in his 2003 arrest. In 2010, Lamo reported U.S. serviceman Bradley Manning to federal authorities, claiming that Manning had leaked hundreds of thousands of sensitive U.S. government documents to WikiLeaks. As a result, Manning was arrested and incarcerated in the U.S. military justice system.
+
+In February 2002 he broke into the internal computer network of The New York Times, adding his name to the internal database of expert sources, and using the paper's LexisNexis account to conduct research on high profile subjects. The New York Times filed a complaint, and a warrant for Lamo's arrest was issued in August 2003 following a 15 month investigation by federal prosecutors in New York. At 10:15 AM on September 9, after spending a few days in hiding, he surrendered to the US Marshals in Sacramento, California. He re surrendered to the FBI in New York City on September 11, and pled guilty to one felony count of computer crimes against Microsoft, LexisNexis and The New York Times on January 8, 2004.
+
+Later in 2004, Lamo was sentenced to six months detention at his parents' home plus two years probation, and was ordered to pay roughly $65,000 in restitution. He was convicted of compromising security at The New York Times and Microsoft, Yahoo! and MCI WorldCom.
+
+When challenged for a response to allegations that he was glamorizing crime for the sake of publicity, his response was 'Anything I could say about my person or my actions would only cheapen what they have to say for themselves'. When approached for comment during his criminal case, Lamo frustrated reporters with non sequiturs such as 'Faith manages', (probably a reference to science fiction television show Babylon 5) and 'It's a beautiful day.'
+
+At his sentencing, Lamo expressed remorse for harm he had caused through his intrusions, with the court record quoting him as adding 'I want to answer for what I have done and do better with my life","thumb":"asset:///images/thumb/lamo.jpg","image":"asset:///images/details/lamo.jpg"},
+{"text":"Kevin Mitnick","details":"Kevin David Mitnick (born on August 6, 1963) is an American computer security consultant, author, convicted criminal, and hacker. In the late 20th century, he was convicted of various computer and communications-related crimes. At the time of his arrest, he was the most-wanted computer criminal in the United States.
+
+Kevin Mitnick is a most famous hacker. He is the author of two books The Art of Deception & The Art of Intrusion. He damaged some Communication networks like Nokia, Motorola and Sun Microsystem etc. Kevin Mitnick has damaged DEC systems source code [Digital Equipment Corporation has spent around $160,000 in cleanup the DEC systems].  To to win a bet he occupied administration privileges to IBM Computers at the Computer Learning center in LA [Los Angeles] .
+
+Confirmed criminal acts
+
+    Using the Los Angeles bus transfer system to get free rides
+    Evading the FBI
+    Hacking into DEC system(s) to view VMS source code (DEC reportedly spent $160,000 in cleanup costs)
+    Gaining full administrator privileges to an IBM minicomputer at the Computer Learning Center in Los Angeles in order to win a bet
+    Hacking Motorola, NEC, Nokia, Sun Microsystems and Fujitsu Siemens systems
+
+Alleged criminal acts
+
+    Stole computer manuals from a Pacific Bell telephone switching center in Los Angeles
+    Read the e-mail of computer security officials at MCI Communications and Digital
+    Wiretapped the California DMV
+    Made free cell phone calls
+    Hacked Santa Cruz Operation, Pacific Bell, FBI, Pentagon, Novell, California Department of Motor Vehicles, University of Southern California and Los Angeles Unified School District systems.
+    Wiretapped FBI agents, according to John Markoff. This was denied by Kevin Mitnick
+    Broke into his local cellphone network and tracked the FBI agents who were after him, when the agents were close, he cleaned all the evidence and left a box labeled 'FBI Donuts' for them.
+","thumb":"asset:///images/thumb/mitnick.jpg","image":"asset:///images/details/mitnick.jpg"}
+]
